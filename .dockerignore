@@ -1,0 +1,10 @@
+.git
+.github
+**/__pycache__
+**/*.pyc
+**/.pytest_cache
+**/*.egg-info
+**/.venv
+**/venv
+# a checkout of AgenticWF-auth next to the sources (CI): passed as its own build context
+/AgenticWF-auth
